@@ -51,7 +51,4 @@ public GUI() {
 	@Override
 	public void actionPerformed(ActionEvent e) {
 count++;
-    label.setText("Number Of Clicks:" + count);
-	}
-
-}
+    
