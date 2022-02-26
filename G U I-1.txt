@@ -53,6 +53,6 @@ public GUI() {
 count++;
    label.setText("Number Of Clicks:" + count);
 	}
-
+}
 
  
